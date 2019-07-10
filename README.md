@@ -13,6 +13,9 @@ by arduinominilabs
 
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Logo.png)
 
+# Diseño
+![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Petfeeder%20Design.png)
+
 # Dashboard Blynk
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/BlynkDashboard.PNG)
 
