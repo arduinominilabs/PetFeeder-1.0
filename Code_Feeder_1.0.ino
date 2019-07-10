@@ -42,12 +42,12 @@ Servo myservo;  // create servo object to control a servo
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "3b1a6ae00f5740a0bf0a7a589e644155";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "WiFi-Arnet-630l";
-char pass[] = "KC025702Z7";
+char ssid[] = "WiFi-SSID-MI-RED";
+char pass[] = "MI PASS";
 
 const int ServoPin=4; //pin 24 es el D2 en Wemos d1 mini
 const int ledPin =  D3; //pin 0 es el D3 en wemos d1 mini
