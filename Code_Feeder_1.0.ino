@@ -49,8 +49,8 @@ char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 char ssid[] = "WiFi-SSID-MI-RED";
 char pass[] = "MI PASS";
 
-const int ServoPin=4; //pin 4 es el D2 en Wemos d1 mini
-const int ledPin =  D3; //pin 0 es el D3 en wemos d1 mini
+const int ServoPin=4; //pin GPIO04 es el D2 en Wemos d1 mini
+const int ledPin =  D3; //pin GPIO00 es el D3 en wemos d1 mini
 
 int servo1=0;
 int cantDiaria=0;
