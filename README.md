@@ -36,6 +36,10 @@ by arduinominilabs
 # Code
 `<Code>` : <https://github.com/arduinominilabs/PetFeeder-1.0/blob/master/Code_Feeder_1.0.ino>
 
+# Funcionamiento
+
+![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Petfeeder%201.0.gif)
+
 # Links
 
 `<Github>` : <https://github.com/arduinominilabs>
