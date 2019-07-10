@@ -11,7 +11,7 @@ by arduinominilabs
 
 # Arduinominilabs
 
-![](https://yt3.ggpht.com/a-/AAuE7mDtxtiAioiJ9K8dxrUawgiBS41vqojMwSxAHg=s900-mo-c-c0xffffffff-rj-k-no)
+![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Logo.png)
 
 # Dashboard Blynk
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/BlynkDashboard.PNG)
