@@ -42,16 +42,12 @@ by arduinominilabs
 
 [Links with title](http://localhost/ "link title")
 
-`<Github>` : <https://github.com/arduinominilabs>
-`<Instagram>` : <https://www.instagram.com/arduinominilabs>
-`<Instructables>` : <https://www.instructables.com/member/arduinominilabs/>
-`<Thingiverse>` : <https://www.thingiverse.com/ArduinominiLabs>
-`<Facebook>` : <https://facebook.com/arduinominilabs>
+`<Github>` : <https://github.com/arduinominilabs>;
+`<Instagram>` : <https://www.instagram.com/arduinominilabs>;
+`<Instructables>` : <https://www.instructables.com/member/arduinominilabs/>;
+`<Thingiverse>` : <https://www.thingiverse.com/ArduinominiLabs>;
+`<Facebook>` : <https://facebook.com/arduinominilabs>;
 
-[Reference link][id/name] 
-
-[id/name]: http://link-url/
-
-link @arduinominilabs
+@arduinominilabs
 
 # End
