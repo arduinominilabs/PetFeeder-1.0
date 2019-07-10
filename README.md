@@ -1,6 +1,6 @@
 # PetFeeder-1.0
 by arduinominilabs
-#DIY PetFeeder - Características
+# DIY PetFeeder - Características
 
 - Alimentador automático de mascotas;
 - El control se realiza mediante una apliación en la plataforma Blynk;
@@ -19,7 +19,7 @@ by arduinominilabs
 
 [TOC]
 
-#Dashboard Blynk
+# Dashboard Blynk
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/BlynkDashboard.PNG)
 
 - V2: valor por defecto.
@@ -30,10 +30,10 @@ by arduinominilabs
 - V12: se pueden setear valores min y máx cualquiera. En nuestro caso mín=10 y máx=60. Estos son segundos;
 
 
-#Circuit
+# Circuit
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Circuit.png)
 
-##Componentes
+## Componentes
 - Wemos D1 mini;
 - Servo de rotación continua "Dm-s0090d ";
 - Led Azul;
@@ -61,4 +61,4 @@ by arduinominilabs
 link @arduinominilabs
 
 
-###End
+# End
