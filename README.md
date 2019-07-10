@@ -13,12 +13,6 @@ by arduinominilabs
 
 ![](https://yt3.ggpht.com/a-/AAuE7mDtxtiAioiJ9K8dxrUawgiBS41vqojMwSxAHg=s900-mo-c-c0xffffffff-rj-k-no)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # Dashboard Blynk
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/BlynkDashboard.PNG)
 
@@ -59,6 +53,5 @@ by arduinominilabs
 [id/name]: http://link-url/
 
 link @arduinominilabs
-
 
 # End
