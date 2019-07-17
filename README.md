@@ -39,6 +39,12 @@ by arduinominilabs
 # Code
 `<Code>` : <https://github.com/arduinominilabs/PetFeeder-1.0/blob/master/Code_Feeder_1.0.ino>
 
+## Librerías
+- Blynk: <https://github.com/blynkkk/blynk-library>
+- Esp8266: <https://github.com/esp8266/Arduino>
+- NTPClient: <https://github.com/arduino-libraries/NTPClient>
+- Servo: <https://github.com/arduino-libraries/Servo>
+
 # Funcionamiento
 
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Petfeeder%201.0.gif)
