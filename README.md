@@ -1,5 +1,7 @@
 # PetFeeder-1.0
 by arduinominilabs
+![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Logo.png)
+
 # DIY PetFeeder - Características
 
 - Alimentador automático de mascotas;
@@ -8,10 +10,6 @@ by arduinominilabs
 - Permite entregar un premio en cualquier momento del día;
 - Permite configurar el tamaño de la porción en segundos;
 - Permite ver la cantidad de comidas dosificadas  en el día;
-
-# Arduinominilabs
-
-![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Logo.png)
 
 # Diseño
 ![](https://raw.githubusercontent.com/arduinominilabs/PetFeeder-1.0/master/Petfeeder%20Design.png)
